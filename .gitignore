@@ -1,0 +1,14 @@
+.git
+example/target/*
+example/project/target/*
+example/project/project/*
+example/.idea/*
+recfun/target/*
+recfun/project/target/*
+recfun/project/project/*
+recfun/.idea/*
+funsets/target/*
+funsets/project/target/*
+funsets/project/project/*
+funsets/.idea/*
+
