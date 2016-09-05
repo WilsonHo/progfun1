@@ -88,8 +88,4 @@ object FunSets {
   def printSet(s: Set) {
     println(toString(s))
   }
-
-  defin(args: Array[String]) {
-    
-  }
 }
