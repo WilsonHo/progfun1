@@ -90,6 +90,6 @@ object FunSets {
   }
 
   defin(args: Array[String]) {
-    
+
   }
 }

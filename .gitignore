@@ -11,4 +11,8 @@ funsets/target/*
 funsets/project/target/*
 funsets/project/project/*
 funsets/.idea/*
+objsets/target/*
+objsets/project/target/*
+objsets/project/project/*
+objsets/.idea/*
 
