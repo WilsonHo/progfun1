@@ -15,4 +15,8 @@ objsets/target/*
 objsets/project/target/*
 objsets/project/project/*
 objsets/.idea/*
+patmat/target/*
+patmat/project/target/*
+patmat/project/project/*
+patmat/.idea/*
 
