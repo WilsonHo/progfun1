@@ -19,4 +19,7 @@ patmat/target/*
 patmat/project/target/*
 patmat/project/project/*
 patmat/.idea/*
-
+forcomp/target/*
+forcomp/project/target/*
+forcomp/project/project/*
+forcomp/.idea/*
